@@ -1,0 +1,197 @@
+Folder PATH listing
+Volume serial number is B034-4B0C
+C:.
+³   about.html
+³   acc-login.html
+³   acc-order-history.html
+³   acc-profile-details.html
+³   acc-register.html
+³   cart-checkout.html
+³   cart-content.html
+³   cart-order-confirmation.html
+³   contact.html
+³   faq.html
+³   footer.html
+³   header.html
+³   index.html
+³   privacy-policy.html
+³   product-page.html
+³   project_structure.txt
+³   return-refund-policy.html
+³   reviews.html
+³   shipping-policy.html
+³   shop.html
+³   terms-conditions.html
+³   
+ÃÄÄÄ.vscode
+³       settings.json
+³       
+ÃÄÄÄCapstone-Group-Project
+ÃÄÄÄcss
+³       about.css
+³       account.css
+³       cart.css
+³       checkoutcart.css
+³       contact.css
+³       faq.css
+³       favorite.css
+³       layout.css
+³       policies.css
+³       product-page.css
+³       product.css
+³       reviews.css
+³       searchicon.png
+³       shop.css
+³       style.css
+³       
+ÃÄÄÄjs
+³       app.js
+³       cartContentLoader.js
+³       checkout.js
+³       common.js
+³       headerFooterLoader.js
+³       product-page.js
+³       product.json
+³       script.js
+³       wishlistContentLoader.js
+³       
+ÀÄÄÄResources
+    ³   products.json
+    ³   
+    ÃÄÄÄabout
+    ³       2.png
+    ³       5.png
+    ³       9.png
+    ³       
+    ÃÄÄÄicons
+    ³       acc-black.png
+    ³       acc-white.png
+    ³       addtocart-black.png
+    ³       addtocart-white.png
+    ³       cart-black.png
+    ³       cart-white.png
+    ³       close.png
+    ³       fav-black-toggled.png
+    ³       fav-black.png
+    ³       fav-white.png
+    ³       fb-white.png
+    ³       fb.png
+    ³       ig-white.png
+    ³       ig.png
+    ³       search.png
+    ³       x-white.png
+    ³       x.png
+    ³       
+    ÃÄÄÄimg
+    ³       10.jpg
+    ³       12.jpg
+    ³       14.jpg
+    ³       15.jpg
+    ³       16.jpg
+    ³       17.jpg
+    ³       18.jpg
+    ³       19.jpg
+    ³       2.jpg
+    ³       3.jpg
+    ³       4.jpg
+    ³       5.jpg
+    ³       6.jpg
+    ³       7.jpg
+    ³       8.jpg
+    ³       
+    ÃÄÄÄlogo
+    ³       everwear-logo-black.png
+    ³       everwear-logo-white.png
+    ³       
+    ÀÄÄÄproduct-img
+        ³   cap-col.png
+        ³   dress-col.png
+        ³   jacket-col.png
+        ³   pants-col.png
+        ³   shorts-col.png
+        ³   tshirt-col.png
+        ³   
+        ÃÄÄÄCap
+        ³       1.jpg
+        ³       10.jpg
+        ³       11.jpg
+        ³       12.jpg
+        ³       2.jpg
+        ³       3.jpg
+        ³       4.jpg
+        ³       5.jpg
+        ³       6.jpg
+        ³       7.jpg
+        ³       8.jpg
+        ³       9.jpg
+        ³       
+        ÃÄÄÄDress
+        ³       1.jpg
+        ³       10.jpg
+        ³       11.jpg
+        ³       12.jpg
+        ³       2.jpg
+        ³       3.jpg
+        ³       4.jpg
+        ³       5.jpg
+        ³       6.jpg
+        ³       7.jpg
+        ³       8.jpg
+        ³       9.jpg
+        ³       
+        ÃÄÄÄJacket
+        ³       1.jpg
+        ³       10.jpg
+        ³       11.jpg
+        ³       12.jpg
+        ³       2.jpg
+        ³       3.jpg
+        ³       4.jpg
+        ³       5.jpg
+        ³       6.jpg
+        ³       7.jpg
+        ³       8.jpg
+        ³       9.jpg
+        ³       
+        ÃÄÄÄPants
+        ³       1.jpg
+        ³       10.jpg
+        ³       11.jpg
+        ³       12.jpg
+        ³       2.jpg
+        ³       3.jpg
+        ³       4.jpg
+        ³       5.jpg
+        ³       6.jpg
+        ³       7.jpg
+        ³       8.jpg
+        ³       9.jpg
+        ³       
+        ÃÄÄÄShorts
+        ³       1.jpg
+        ³       10.jpg
+        ³       11.jpg
+        ³       12.jpg
+        ³       2.jpg
+        ³       3.jpg
+        ³       4.jpg
+        ³       5.jpg
+        ³       6.jpg
+        ³       7.jpg
+        ³       8.jpg
+        ³       9.jpg
+        ³       
+        ÀÄÄÄTshirts
+                1.jpg
+                10.jpg
+                11.jpg
+                12.jpg
+                2.jpg
+                3.jpg
+                4.jpg
+                5.jpg
+                6.jpg
+                7.jpg
+                8.jpg
+                9.jpg
+                
